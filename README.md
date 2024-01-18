@@ -1,12 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey There👋</h1>
+
+###
+
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">My name is Adrian and I'm a Developer, from Bogotá, Colombia</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 ###
 
@@ -37,7 +38,7 @@
 
 ###
 
-<h2>My Stats</h2>
+<h2>My stats</h2>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTorresMontero&langs_count=5&theme=tokyonight)]()
 

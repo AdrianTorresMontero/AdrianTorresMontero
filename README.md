@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Adrian from Bogotá Colombia
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AdrianTorresMontero&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 <!--
 **AdrianTorresMontero/AdrianTorresMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

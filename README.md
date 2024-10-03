@@ -2,16 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is Adrian and I'm a Developer, from Bogotá, Colombia</p>
-
-
-###
-
-<p align="left">✨ I'm interested in AI, Machine Learning and app development<br>📚 I'm currently building own projects <br></p>
 
 ###
 
